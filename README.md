@@ -1,1 +1,1 @@
-uuuuuu
+uuuuuu.js
